@@ -1,5 +1,7 @@
 # Ranch
 
+[![Build Status](https://travis-ci.org/voxoz/ranch.svg?branch=master)](https://travis-ci.org/voxoz/ranch)
+
 Ranch is a socket acceptor pool for TCP protocols.
 
 ## Goals
