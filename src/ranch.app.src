@@ -13,7 +13,7 @@
 %% OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 {application, ranch, [
-	{description, "Socket acceptor pool for TCP protocols."},
+	{description, "RANCH TCP protocols"},
 	{vsn, "1.0.0"},
 	{modules, []},
 	{registered, [ranch_sup, ranch_server]},
